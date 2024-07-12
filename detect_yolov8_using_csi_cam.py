@@ -1,3 +1,8 @@
+# 실행하기 전에 반드시 pip3 install ultralytics -> pip uninstall opencv-python
+# opencv-python를 삭제하는 이유는 이미 우분투에 opencv 4.8.0가 빌드되어 있음.
+# 이를 지키지 않으면 지스트리머 미설치로 CSI 카메라를 활용할 수 없음.
+
+
 from ultralytics import YOLO
 import cv2
 import nanocamera as nano

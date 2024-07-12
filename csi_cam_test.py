@@ -1,5 +1,7 @@
+# 실행하기 전에 반드시 pip3 install nanocamera 를 해주세요!
+
+
 import cv2
-#from nanocamera.NanoCam import Camera
 import nanocamera as nano
 
 if __name__ == '__main__':
