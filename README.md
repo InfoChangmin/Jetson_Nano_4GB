@@ -16,3 +16,4 @@ https://qengineering.eu/install-ubuntu-20.04-on-jetson-nano.html
      가. pip3 install ultralytics 를 진행하세요!
      나. 이후에 opencv-python 4.10이 설치되는데 이는 지스트리머가 없는 버전으로 반드시 pip uninstall opencv-python을 진행하세요.
      다. python3를 실행하여 import cv2를 입력하고 cv2.__version__에서 CV2 버전이 4.8.0인지 꼭 확인하세요.
+<img width="1114" alt="image" src="https://github.com/user-attachments/assets/799745f0-f3db-4f70-83f7-dc58d55a3ce8">
