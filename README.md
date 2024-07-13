@@ -9,6 +9,7 @@
 https://qengineering.eu/install-ubuntu-20.04-on-jetson-nano.html
 
 #부팅디스크 ISO링크: https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image
+
 #부팅디스크 만들기 프로그램 링크: https://rufus.ie/ko/
 
 1. CSI CAMERA: USB 카메라를 활용하지 않고 CSI 카메라를 이용해 화면을 켤 수 있습니다.
